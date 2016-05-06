@@ -1,2 +1,3 @@
 # hello-world
-My new repository
+
+This is starting to look very cool!
